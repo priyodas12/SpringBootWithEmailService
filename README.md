@@ -3,6 +3,8 @@ A Springboot application using Mailtrap.io
 
 # Request:
 POST:localhost:8547/message/send
+
+# Raw\n
 {
 	"user":"priyobrato das",
 	"emailAddress":"priyodas13@gmail.com",
