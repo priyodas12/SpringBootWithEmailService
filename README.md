@@ -5,13 +5,13 @@ A Springboot application using Mailtrap.io
 POST:localhost:8547/message/send
 
 ### Raw
-`{<br >
+{<br >
 	"user":"priyobrato das",<br >
 	"emailAddress":"priyodas13@gmail.com",<br >
 	"todo":"Why Every Businesses Are Looking To Customer Feedback Tools!",<br >
 	"priority":"Medium",<br >
 	"rating":4.5<br >
-}`<br >
+}<br >
 
 ## Response:
 
